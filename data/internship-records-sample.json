@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Frontend Developer Intern",
+    "company": "BrightPixel Labs",
+    "location": "Jaipur",
+    "mode": "hybrid",
+    "stipend": 8000,
+    "duration_weeks": 12,
+    "status": "open",
+    "deadline": "2026-12-15",
+    "description": "Build responsive UI components with React and work with the design team."
+  },
+  {
+    "title": "Backend Developer Intern",
+    "company": "CloudNest Systems",
+    "location": "Bengaluru",
+    "mode": "remote",
+    "stipend": 12000,
+    "duration_weeks": 12,
+    "status": "open",
+    "deadline": "2026-12-20",
+    "description": "Create REST APIs with Node.js and PostgreSQL under a senior mentor."
+  },
+  {
+    "title": "Data Analyst Intern",
+    "company": "InsightEdge Analytics",
+    "location": "Pune",
+    "mode": "onsite",
+    "stipend": 10000,
+    "duration_weeks": 10,
+    "status": "open",
+    "deadline": "2026-12-10",
+    "description": "Clean datasets, build dashboards and present weekly insights."
+  },
+  {
+    "title": "UI/UX Design Intern",
+    "company": "PixelCraft Studio",
+    "location": "Mumbai",
+    "mode": "remote",
+    "stipend": 7000,
+    "duration_weeks": 8,
+    "status": "open",
+    "deadline": "2026-12-05",
+    "description": "Create wireframes and prototypes in Figma and run small usability tests."
+  },
+  {
+    "title": "Digital Marketing Intern",
+    "company": "GrowthLoop Media",
+    "location": "Delhi",
+    "mode": "hybrid",
+    "stipend": 6000,
+    "duration_weeks": 8,
+    "status": "closed",
+    "deadline": "2026-10-30",
+    "description": "Support SEO, social media campaigns and content calendars."
+  },
+  {
+    "title": "Machine Learning Intern",
+    "company": "NeuraWorks AI",
+    "location": "Hyderabad",
+    "mode": "remote",
+    "stipend": 15000,
+    "duration_weeks": 16,
+    "status": "open",
+    "deadline": "2027-01-05",
+    "description": "Train and evaluate small ML models and document experiments."
+  },
+  {
+    "title": "Content Writing Intern",
+    "company": "WordSmith Collective",
+    "location": "Jaipur",
+    "mode": "remote",
+    "stipend": 4000,
+    "duration_weeks": 6,
+    "status": "open",
+    "deadline": "2026-11-30",
+    "description": "Write blog posts and technical articles for a developer audience."
+  },
+  {
+    "title": "QA Testing Intern",
+    "company": "SafeLaunch Software",
+    "location": "Noida",
+    "mode": "onsite",
+    "stipend": 8000,
+    "duration_weeks": 10,
+    "status": "open",
+    "deadline": "2026-12-18",
+    "description": "Write test cases, run manual tests and report bugs."
+  },
+  {
+    "title": "Full Stack Developer Intern",
+    "company": "StackBridge Technologies",
+    "location": "Gurugram",
+    "mode": "hybrid",
+    "stipend": 14000,
+    "duration_weeks": 12,
+    "status": "open",
+    "deadline": "2027-01-10",
+    "description": "Work across a React frontend and an Express API on real product features."
+  },
+  {
+    "title": "HR Operations Intern",
+    "company": "PeopleFirst Consulting",
+    "location": "Jaipur",
+    "mode": "onsite",
+    "stipend": 5000,
+    "duration_weeks": 8,
+    "status": "closed",
+    "deadline": "2026-10-15",
+    "description": "Assist with screening, scheduling interviews and onboarding."
+  },
+  {
+    "title": "DevOps Intern",
+    "company": "InfraPilot",
+    "location": "Chennai",
+    "mode": "remote",
+    "stipend": 11000,
+    "duration_weeks": 12,
+    "status": "open",
+    "deadline": "2026-12-28",
+    "description": "Learn CI/CD, Docker and basic cloud monitoring."
+  },
+  {
+    "title": "Mobile App Intern",
+    "company": "AppForge Studios",
+    "location": "Ahmedabad",
+    "mode": "hybrid",
+    "stipend": 9000,
+    "duration_weeks": 12,
+    "status": "open",
+    "deadline": "2026-12-22",
+    "description": "Help build and test features for a Flutter application."
+  }
+]
