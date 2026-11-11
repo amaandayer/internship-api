@@ -13,7 +13,7 @@ Data is stored in a SQLite file, so it persists across server restarts.
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/amaandayer/internship-api.git
 cd internship-api
 npm install
 npm run seed      # creates internships.db and loads 12 sample records
